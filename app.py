@@ -24,7 +24,7 @@ st.markdown(
         margin-bottom: 30px;
         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     '>
-        <h1 style='margin-bottom: 10px;'>📘מערכת רישום כיתת מעלה גף אוויוניקה</h1>
+        <h1 style='margin-bottom: 10px;'>📘מערכת רישום כיתת מעלה גף קרב א</h1>
         <p style='font-size: 18px; margin: 0;'>ניהול תורים, מפקדים והודעות — במקום אחד מסודר</p>
     </div>
     """,
@@ -413,3 +413,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
